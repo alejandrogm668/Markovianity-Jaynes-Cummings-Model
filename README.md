@@ -18,5 +18,5 @@ where
 
 and
 
-![\color{grey}  D(\rho_e,\rho_g) = \frac{1}{2} \text{Tr} |\rho_e-\rho_g| = \frac{1}{2} \text{Tr} \sqrt{\rho_e^{\dagger}\rho_g}](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Ccolor%7Bgrey%7D++D%28%5Crho_e%2C%5Crho_g%29+%3D+%5Cfrac%7B1%7D%7B2%7D+%5Ctext%7BTr%7D+%7C%5Crho_e-%5Crho_g%7C+%3D+%5Cfrac%7B1%7D%7B2%7D+%5Ctext%7BTr%7D+%5Csqrt%7B%5Crho_e%5E%7B%5Cdagger%7D%5Crho_g%7D)
+![\color{grey}  D(\rho_e,\rho_g) = \frac{1}{2} \text{Tr} |\rho_e-\rho_g| = \frac{1}{2} \text{Tr} \sqrt{\rho_e^{\dagger}\rho_g}](https://render.githubusercontent.com/render/math?math=%5Cdisplaystyle+%5Ccolor%7Bgrey%7D++D%28%5Crho_e%2C%5Crho_g%29+%3D+%5Cfrac%7B1%7D%7B2%7D+%5Ctext%7BTr%7D+%7C%5Crho_e-%5Crho_g%7C+%3D+%5Cfrac%7B1%7D%7B2%7D+%5Ctext%7BTr%7D+%5Csqrt%7B(%5Crho_e-%5Crho_g)%5E%7B%5Cdagger%7D(%5Crho_e-%5Crho_g)%7D)
 
